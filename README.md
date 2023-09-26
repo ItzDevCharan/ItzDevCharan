@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hoi 👋, I'm Snehith Chowdary<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"></h1>
+<h1 align="center">Hoi 👋, I'm Charan Chandu<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"></h1>
 
 <p align="center"><img src="./Assets/Bobby.png" alt="Coding Avtar" width="500"></p>
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python , Frontend , Linux , Cyber Secuirty**
 
-- 📫 How to reach me **itzr00tbyte@gmail.com**
+- 📫 How to reach me **charanchandu2203@gmail.com**
 
 - ⚡ Fun fact **I Think I Work Hard -:)xD.**
 
